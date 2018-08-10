@@ -1,0 +1,4 @@
+0 Izmir 1-2
+1 Manisa 0-2-3
+2 Balikesir 0-1
+3 Usak 1
